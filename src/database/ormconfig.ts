@@ -1,5 +1,6 @@
 import { DataSource } from 'typeorm'
 import dotenv from 'dotenv'
+import { join } from 'path'
 
 dotenv.config() // carrega as variáveis de ambiente do arquivo .env
 
