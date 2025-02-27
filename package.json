@@ -11,7 +11,8 @@
     "typeorm": "^0.3.20"
   },
   "scripts": {
-    "dev": "nodemon --exec ts-node-dev src/server.ts"
+    "dev": "nodemon --exec ts-node-dev src/server.ts",
+    "build": "tsc"
   },
   "devDependencies": {
     "@types/express": "^5.0.0",
