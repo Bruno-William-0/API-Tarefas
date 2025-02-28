@@ -5,6 +5,8 @@
   "author": "Bruno-William-0 <bruwill04@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@types/bcrypt": "^5.0.2",
+    "bcrypt": "^5.1.1",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "sqlite3": "^5.1.7",
